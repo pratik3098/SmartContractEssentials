@@ -22,5 +22,5 @@ contract Token is IERC20{
     string  public  symbol= "GBC";
     uint    public  total_supply;
     address public  owner;
-    
+    construc
 }
